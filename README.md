@@ -4,7 +4,7 @@
 [![made-with-angular](https://img.shields.io/badge/Made%20with-angular-1f425f.svg)](https://angular.io/)
 [![made-with-angularmaterial](https://img.shields.io/badge/Made%20with-AngularMaterial-1f425f.svg)](https://material.angular.io/)
 
-# ProjetoIntegrador Find Your Help :bulb:
+# :bulb: ProjetoIntegrador Find Your Help :bulb:
 
 - <a href = "https://github.com/Andressaffs"> Andressa Ferreira </a>
 - <a href = "https://github.com/athosgpm"> Athos Mesquita </a>
@@ -15,7 +15,7 @@
 - <a href = "https://github.com/tatiantunes">Tatiane Tissoni</a>
 
 
-## Sobre 
+##  :bulb: Sobre 
 Projeto Find your help é uma rede social que visa promover uma infraestrutura de qualidade para as pessoas que precisam de investimentos (financeiros, serviços e feedback), para implementação de suas ideias. Desta forma, o projeto tem como objetivo fomentar empregos, gerar inovação e possibilitar uma chance de mudança de vida, através da conexão de investidores e empreendedores.
 <hr>
 
