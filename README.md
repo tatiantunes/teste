@@ -6,13 +6,13 @@
 
 # :bulb: ProjetoIntegrador Find Your Help :bulb:
 
-- <a href = "https://github.com/Andressaffs"> Andressa Ferreira </a>
-- <a href = "https://github.com/athosgpm"> Athos Mesquita </a>
-- <a href = "https://github.com/Carolguida">Carolina Guida</a>
-- <a href = "https://github.com/GUSTAVO-GUILHEN">Gustavo de Souza Guilhen</a>
-- <a href = "https://github.com/MariaNazar">Maria Nazare</a>
-- <a href = "https://github.com/Velasco18">Osvaldo Velasco</a>
-- <a href = "https://github.com/tatiantunes">Tatiane Tissoni</a>
+- :art:<a href = "https://github.com/Andressaffs"> Andressa Ferreira </a>
+- :loudspeaker:<a href = "https://github.com/athosgpm"> Athos Mesquita </a>
+- :book:<a href = "https://github.com/Carolguida">Carolina Guida</a>
+- :tophat:<a href = "https://github.com/GUSTAVO-GUILHEN">Gustavo de Souza Guilhen</a>
+- :crown:<a href = "https://github.com/MariaNazar">Maria Nazare</a>
+- :rocket:<a href = "https://github.com/Velasco18">Osvaldo Velasco</a>
+- :hearts:<a href = "https://github.com/tatiantunes">Tatiane Tissoni</a>
 
 
 ##  :bulb: Sobre 
